@@ -36,7 +36,7 @@ An automated defensive triage console engineered to accelerate Tier-1 Security O
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)<your-username>/phishguard-soc-analyzer.git
+git clone https://github.com/Mariakhan607/phishguard-soc-analyzer.git
 
 # Navigate into directory
 cd phishguard-soc-analyzer
